@@ -1,0 +1,90 @@
+
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+body{
+  
+  background: url(https://cdn.glitch.com/16276e0c-8f40-4c38-931e-0aca38ed40a8%2Fblue%20clouds%20trans.png?1525940053901), #1890F8;
+  margin:0px;
+  
+}
+
+header.header{
+  
+  width:calc(100%);
+  background: url(https://cdn.glitch.com/16276e0c-8f40-4c38-931e-0aca38ed40a8%2Fyellow%20clouds%2C%20top.png?1525939851473);
+  padding-top:50px;
+  text-align:center;
+  background-repeat:repeat-x;
+  
+}
+
+div.container{
+  
+  max-width:700px;
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  background:yellow;
+  padding-bottom:10px;
+  border: 5px solid yellow;
+  box-shadow:10px 10px;
+  
+}
+
+a{
+  
+  color: #333;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left:20px;
+  margin-right:20px;
+    
+}
+
+div.body{
+ 
+  margin-top:100px;
+  text-align:center;
+  margin-bottom:100px;
+  
+}
+
+.card{
+  
+  box-shadow:10px 10px;
+  display: inline-block;
+  margin-left:6px;
+  margin-right:6px;
+  min-width:100px;
+  background:yellow;
+ 
+  padding:5px;
+  
+}
+.card a{
+ 
+  text-align: center;
+  vertical-align: middle;
+  line-height: 90px;
+  color:#fff;
+  font-family: 'Righteous', cursive;
+  text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
+        0 0 0.2em #87F;
+  font-size:1.2em;
+  text-transform:uppercase;
+  
+}
+div.footer_image{
+  
+  height:210;
+  width:100%;
+  background: url(https://cdn.glitch.com/16276e0c-8f40-4c38-931e-0aca38ed40a8%2Fback1.png?1525939438602);
+  background-position:bottom;
+    
+}
+footer.footer{
+ 
+  background: #384848;
+  height:500px;
+  
+}
